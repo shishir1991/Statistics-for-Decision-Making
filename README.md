@@ -35,17 +35,17 @@ The project uses a dataset (`property.csv`) containing information about real es
    - Alternative Hypothesis: There is a difference in the mean property prices between summer and winter months in 2016.
    - Test: Independent samples t-test.
 
-3. **Car Parking Availability in Abbotsford
+3. **Car Parking Availability in Abbotsford**
 - For the suburb of Abbotsford, we test the hypothesis: 
 - **Hypothesis**: What is the probability that out of 10 properties sold, 3 will not have car parking?
 - **Result**: The probability is calculated to be 0.260.
 
-4. **Room Availability in Abbotsford
+4. **Room Availability in Abbotsford**
 - We also test the hypothesis:
 - **Hypothesis**: What are the chances of finding a property with 3 rooms in Abbotsford?
 - **Result**: The probability is calculated to be 0.357.
 
-5. **Bathroom Availability in Abbotsford
+5. **Bathroom Availability in Abbotsford**
 - We also test the hypothesis:
 - **Hypothesis**: What are the chances of finding a property with 2 Bathrooms in Abbotsford?
 - **Result**: The probability is calculated to be 0.339.

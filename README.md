@@ -35,11 +35,20 @@ The project uses a dataset (`property.csv`) containing information about real es
    - Alternative Hypothesis: There is a difference in the mean property prices between summer and winter months in 2016.
    - Test: Independent samples t-test.
 
-3.
+3. **Car Parking Availability in Abbotsford
+- For the suburb of Abbotsford, we test the hypothesis: 
+- **Hypothesis**: What is the probability that out of 10 properties sold, 3 will not have car parking?
+- **Result**: The probability is calculated to be 0.260.
 
-4.
+4. **Room Availability in Abbotsford
+- We also test the hypothesis:
+- **Hypothesis**: What are the chances of finding a property with 3 rooms in Abbotsford?
+- **Result**: The probability is calculated to be 0.357.
 
-5.
+5. **Bathroom Availability in Abbotsford
+- We also test the hypothesis:
+- **Hypothesis**: What are the chances of finding a property with 2 Bathrooms in Abbotsford?
+- **Result**: The probability is calculated to be 0.339.
 
 ## Instructions
 1. Clone the repository to your local machine.
@@ -53,9 +62,9 @@ The project uses a dataset (`property.csv`) containing information about real es
 ## Results
 - For Altona, the analysis suggests that there is not enough evidence to conclude that the typical property price is greater than $800,000.
 - For 2016, the analysis indicates a significant difference in property prices between summer and winter months.
--
--
--
+- The probability of 10 properties sold, 3 will not have car parking is calculated to be 0.260 or 26%.
+- The probability of finding a property in suburb Abbotsford with 3 rooms in Abbotsford is calculated to be 0.357 or 35.7%.
+- The probability of finding a property  in suburb Abbotsford with 2 Bathrooms in Abbotsford is calculated to be 0.339 or 33.9%.
 
 ## Conclusion
 Based on the statistical analysis, it can be inferred that there is a need for further investigation to understand the trends in property prices and their implications.

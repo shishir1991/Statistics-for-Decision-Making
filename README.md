@@ -41,14 +41,14 @@ The project uses a dataset (`property.csv`) containing information about real es
    - **Result**: The probability is calculated to be 0.260.
 
 4. **Room Availability in Abbotsford**
-- We also test the hypothesis:
-- **Hypothesis**: What are the chances of finding a property with 3 rooms in Abbotsford?
-- **Result**: The probability is calculated to be 0.357.
+   - We also test the hypothesis:
+   - **Hypothesis**: What are the chances of finding a property with 3 rooms in Abbotsford?
+   - **Result**: The probability is calculated to be 0.357.
 
 5. **Bathroom Availability in Abbotsford**
-- We also test the hypothesis:
-- **Hypothesis**: What are the chances of finding a property with 2 Bathrooms in Abbotsford?
-- **Result**: The probability is calculated to be 0.339.
+   - We also test the hypothesis:
+   - **Hypothesis**: What are the chances of finding a property with 2 Bathrooms in Abbotsford?
+   - **Result**: The probability is calculated to be 0.339.
 
 ## Instructions
 1. Clone the repository to your local machine.

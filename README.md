@@ -36,9 +36,9 @@ The project uses a dataset (`property.csv`) containing information about real es
    - Test: Independent samples t-test.
 
 3. **Car Parking Availability in Abbotsford**
-- For the suburb of Abbotsford, we test the hypothesis: 
-- **Hypothesis**: What is the probability that out of 10 properties sold, 3 will not have car parking?
-- **Result**: The probability is calculated to be 0.260.
+   - For the suburb of Abbotsford, we test the hypothesis: 
+   - **Hypothesis**: What is the probability that out of 10 properties sold, 3 will not have car parking?
+   - **Result**: The probability is calculated to be 0.260.
 
 4. **Room Availability in Abbotsford**
 - We also test the hypothesis:
